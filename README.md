@@ -1,4 +1,4 @@
-# Youtube-concept - учебный проект glo academy
+# Youtube-concept - учебный проект Glo Academy
 Проект выполнил Владимир Пузанов
 
 ## Используемые технологии
