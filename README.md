@@ -4,6 +4,7 @@
 ## Используемые технологии
  - HTML
  - CSS
+ - Java Script
  - Normalize.css
  - SVG Sprites
  - Swiper
